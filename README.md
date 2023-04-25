@@ -8,7 +8,7 @@ The grammar of the Mini language is defined in the grammar.txt file. It is under
 
 ## Mini Language - Lexer
 
-Developed by [Barnabas Wire](https://github.com/barrywire)
+Developed by [Barnabas Wire](https://github.com/barrywire) [David Kilolo](https://github.com/dgkilolo), [Laurent Namasaka](https://github.com/laurentnamasaka), [Samson Rasugu](https://github.com/samrasugu)
 The code for the lexer is found in its entirety in the basic.py file, specifically in the Lexer class. Errors are handled by the Error class in collaboration with the IllegalCharError and ExpectedCharError classes.
 
 ## Mini Language - Parser
